@@ -3,6 +3,5 @@ def square_array(array)
   
   while array.each do
     new_numbers << array.each ** 2 
-    counter += 1 
   end 
 end
