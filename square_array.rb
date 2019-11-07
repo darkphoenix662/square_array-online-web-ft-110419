@@ -4,5 +4,3 @@ def square_array(array)
     new_array << x ** 2 
   end 
 end
-
-square_array(new_array)
